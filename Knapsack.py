@@ -19,6 +19,7 @@ For the above, the first item has weight 5 and value 10, the second item has wei
 
 In this example, Bob should take the second and fourth item to maximize his value, which, in this case, is 90. He cannot get more than 90 as his knapsack has a weight limit of 10.
 '''
+
 Items = [{ "weight": 5, "value": 10 }, { "weight": 4, "value": 40 }, { "weight": 6, "value": 30 }, { "weight": 4, "value": 50 }]
 
 
